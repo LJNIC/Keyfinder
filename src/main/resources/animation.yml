@@ -1,0 +1,36 @@
+
+type: ZAM
+
+animationData: 
+
+  frameRate: 2
+
+  loopCount: 1
+  baseName: title
+  extension: xp
+
+  frameMap:
+  - frame: 0
+    repeatCount: 1
+  - frame: 1
+    repeatCount: 1 
+  - frame: 2
+    repeatCount: 1
+  - frame: 3
+    repeatCount: 1
+  - frame: 4
+    repeatCount: 1
+  - frame: 5
+    repeatCount: 1
+  - frame: 6
+    repeatCount: 1
+  - frame: 7
+    repeatCount: 1
+  - frame: 8
+    repeatCount: 1
+  - frame: 9
+    repeatCount: 1
+  - frame: 10
+    repeatCount: 1
+  - frame: 11
+    repeatCount: 1
