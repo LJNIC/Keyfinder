@@ -1,11 +1,8 @@
-Compiled class file
+#Compiled class file
 *.class
 
 # Log file
 *.log
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -15,3 +12,6 @@ Compiled class file
 *.tar.gz
 *.rar
 
+# Production folders
+out/
+.idea/
